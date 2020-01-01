@@ -41,4 +41,4 @@ To make this work:
 5. Configure the PowerCenter plugin settings like this, with the
    `/usr/local/bin/gpio-trigger-br-wrapper.sh` script as the `br` binary path:
    
-<img src="powercenter-settings.png" width="400">
+<img src="powercenter-settings.png" width="600" align="center">
